@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h1>Hi there 👋</h1>
-</div>
 
-## :dart: About ##
+## :dart: Hi there 👋 ##
 
-Hello! My name is Meera Nair, and I am a self-taught software developer. I am skilled and experienced in a variety of development frameworks and tools, and I am committed to creating user-friendly and visually appealing web interfaces that provide a seamless user experience. Hit me up at @mierarrar!
+Hello! My name is Meera Nair, and I am a self-taught software developer. I am skilled and experienced in a variety of development frameworks and tools, and I am committed to creating user-friendly and visually appealing web interfaces. Hit me up at @mierarrar!
